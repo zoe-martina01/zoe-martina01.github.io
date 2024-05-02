@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap');
+
+.memim
+{
+    height: 50px;
+    background-color: #303030;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Micro 5", sans-serif;
+    
+    /* estás 3 líneas es para centrar todo*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.memim a
+{
+    color:white;
+    text-decoration: none;
+    margin: 1px; /*Cambiar a 1*/
+    
+    /* Nuevo en cada palabra del menú*/
+    height: 100%;
+    width: 100px;
+    background-color: #6C6C6C;
+    
+   
+    /* estás 3 líneas es para centrar todo*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.cody{
+   /*Estas 3 líneas son para centrar*/   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    /* Esta línea es para el color de fondo */
+    background-color: white;
+    
+    /* Esta línea es para el color de letras*/
+    color:blueviolet;
+    
+    /* Esta línea es para la altura del cuadrado*/
+    height: 300px;
+    
+  
+    /*Esta línea solo en caso de querer que cada elemento se baje*/
+    flex-direction: column;
+}
+
+
+.majimboo{
+    /*Estas 3 líneas son para centrar*/   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: white;
+    
+    color:blueviolet;
+}
+
