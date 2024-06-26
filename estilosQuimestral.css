@@ -1,0 +1,43 @@
+.Parte1
+{
+    
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #E2E2E2;
+height: 100px; 
+font-size: 50px;
+    
+}
+.Parte2
+{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #FFF0AC;
+height: 100px; 
+font-size: 20px;
+    
+}
+
+.Parte3
+{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #D1EAFF;
+height: 400px; 
+          
+}
+
+
+.Parte4
+{
+    
+ display: flex;
+justify-content: center;
+align-items: center;
+background-color: #D1EAFF;
+    height: 100px;
+    
+}
